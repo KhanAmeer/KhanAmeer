@@ -87,7 +87,7 @@ An Android application designed to help beginners understand music production th
 
 ## 📜 Certifications
 
-🏅 SQL (Basic) – HackerRank
+🏅 [SQL (Basic) – HackerRank](https://www.hackerrank.com/certificates/26c02b569308)
 
 ---
 
