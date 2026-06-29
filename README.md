@@ -10,9 +10,9 @@ I'm passionate about turning data into actionable insights and building software
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science
+- 🚀 Co-Founder of Gatherdeck, an event brokerage startup
 - 📊 Passionate about Data Analytics and Business Intelligence
 - 📈 Experienced with SQL, Power BI, and Data Analysis
-- 🚀 Co-Founder of Gatherdeck, an event brokerage startup
 ---
 
 ## 🛠️ Tech Stack
