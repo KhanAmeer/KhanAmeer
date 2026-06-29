@@ -124,5 +124,4 @@ An Android application designed to help beginners understand music production th
 
 <p align="center">
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
-</p><!--
-**KhanAmeer/KhanAmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
